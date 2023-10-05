@@ -1,2 +1,2 @@
-# diploma-intern-all-assignment
+# My Project
 My all assignment are here
